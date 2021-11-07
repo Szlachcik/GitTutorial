@@ -1,4 +1,4 @@
-print("Zadanie. 1")
+print("Zadanie 1")
 dycha = [1,2,3,4,5,6,7,8,9,10]
 szesciany = [i**3 for i in dycha]
 print(szesciany)
